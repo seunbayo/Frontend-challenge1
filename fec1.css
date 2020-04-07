@@ -1,0 +1,28 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+#left {
+  background-color: #00b9b4;
+}
+
+#right {
+  background-color: #00c4c0;
+}
+
+/* .column {
+  float: left;
+  width: 50%;
+} */
